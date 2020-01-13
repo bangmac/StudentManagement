@@ -1,6 +1,8 @@
 public class Manager {
     private int id;
-    private String fullName, address, phoneNumber;
+    private String fullName;
+    private String address;
+    private String phoneNumber;
 
     public Manager() {
     }

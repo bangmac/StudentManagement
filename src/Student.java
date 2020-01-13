@@ -1,7 +1,9 @@
 
 public class Student {
     private int id;
-    private String fullName,address,phoneNumber;
+    private String fullName;
+    private String address;
+    private String phoneNumber;
     private double grade;
 
     public Student() {
